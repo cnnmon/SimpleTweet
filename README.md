@@ -40,7 +40,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Some icons (whatever was in the resource folder) were made into vector drawables
 
 ## Video Walkthrough
 
